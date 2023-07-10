@@ -1,0 +1,12 @@
+main.c:84:6:DHT11_ReadData	10
+main.c:148:5:main	1
+main.c:267:6:SystemClock_Config	4
+main.c:311:13:MX_ADC1_Init	3
+main.c:358:13:MX_TIM2_Init	4
+main.c:403:13:MX_USART1_UART_Init	2
+main.c:436:13:MX_GPIO_Init	1
+main.c:485:6:tempread	2
+main.c:504:6:tempread_periodic	4
+main.c:535:6:read_humidity	1
+main.c:543:6:HAL_TIM_PeriodElapsedCallback	1
+main.c:557:6:Error_Handler	1
